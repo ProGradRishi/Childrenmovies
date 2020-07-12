@@ -1,0 +1,26 @@
+header {
+    background:black;
+    color:white;
+    text-align: center;
+}
+#harrypotter {
+    background:red;
+    color:gold;
+    text-align: center;
+}
+#magnuschase{
+    background:yellow;
+    color:blue;
+    text-align: center;
+    align-items: center;
+}
+nav ul{
+    margin: 20px;
+    padding: 10px;
+    list-style:none;
+    text-align: center;
+}
+nav link{
+    text-decoration:none;
+    cursor:pointer;
+}
